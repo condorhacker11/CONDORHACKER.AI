@@ -1,0 +1,7 @@
+{
+  "name": "CondorAgents AI Terminal",
+  "description": "A multi-agent AI interface featuring 10 specialized personas including Tech, Cyber, Medical, and Project Management specialists.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
